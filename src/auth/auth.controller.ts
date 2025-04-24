@@ -8,7 +8,6 @@ import { RegisterDto } from './dto/register.dto';
 /**
  * @class AuthController
  * @description Authentication endpoints for user login and registration
- * @pattern REST API Controller - Handles HTTP requests/responses
  * @structure { login(), register() }
  * @author Nestor Quiñones
  */
